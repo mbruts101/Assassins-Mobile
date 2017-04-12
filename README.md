@@ -7,9 +7,9 @@ Must be built and run in Android Studio.
 
 
 Current Progress:
--Working GPS with 8 decimal point accuracy 
--Base Application running 
--Logo created
+  - Working GPS with 8 decimal point accuracy 
+  - Base Application running 
+  - Logo created
 
 Tasks:
 
