@@ -6,6 +6,11 @@ Virturally implements the Assassins game (see https://en.wikipedia.org/wiki/Assa
 Must be built and run in Android Studio.
 
 
+Current Progress:
+-Working GPS with 8 decimal point accuracy 
+-Base Application running 
+-Logo created
+
 Tasks:
 
 
